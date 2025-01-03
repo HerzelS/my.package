@@ -22,3 +22,5 @@ Config/fusen/version: 0.5.2
 Encoding: UTF-8
 Roxygen: list(markdown = TRUE)
 RoxygenNote: 7.3.1
+URL: https://github.com/HerzelS/my.package
+BugReports: https://github.com/HerzelS/my.package/issues
